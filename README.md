@@ -1,4 +1,5 @@
 Healthcare Management System
+
 Welcome to our Healthcare Management System—a comprehensive solution designed to simplify healthcare administration and improve patient experiences. This platform connects patients, doctors, and healthcare providers under one digital ecosystem, making healthcare more accessible and efficient.
 
 Key Features
